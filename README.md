@@ -53,11 +53,8 @@ I work with a variety of technologies and tools, including but not limited to:
 
 ## 📈 GitHub Stats
 
-![HTML](https://img.shields.io/badge/HTML-30%25-orange)
-![CSS](https://img.shields.io/badge/CSS-25%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
-![PHP](https://img.shields.io/badge/PHP-15%25-blueviolet)
-![Java](https://img.shields.io/badge/Java-10%25-red)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
