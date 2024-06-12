@@ -59,6 +59,6 @@ I work with a variety of technologies and tools, including but not limited to:
 
 Feel free to reach out! I'm open to collaboration and always excited to connect with fellow developers. Let's learn and grow together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-hisham-24963b2ab/))
 
 Happy coding! 🚀
