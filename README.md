@@ -53,8 +53,7 @@ I work with a variety of technologies and tools, including but not limited to:
 
 ## 📈 GitHub Stats
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhishamm&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
