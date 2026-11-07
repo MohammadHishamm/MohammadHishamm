@@ -1,55 +1,67 @@
 # Hello, I'm Mohammad Hisham! 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a love for crafting efficient and innovative solutions. Here, you'll find a collection of projects and contributions that reflect my journey in the world of coding.
+Welcome to my GitHub profile! I'm a full-stack software engineer who enjoys building backend systems and the frontends on top of them. Here, you'll find a collection of projects and contributions that reflect my journey in the world of coding.
 
 ## 🚀 About Me
 
-I'm on a mission to blend creativity with functionality. My expertise lies in:
-
-- 💻 Software Development
-- 🌐 Web Development
-- 📱 Mobile App Development
+- 💻 Full-Stack Development (Back-end focused, comfortable across the stack)
+- 🔌 REST API design & third-party integrations
+- ☁️ Cloud infrastructure & DevOps (AWS, Docker)
 - 🧠 Problem Solving
 
 ## 🌱 Current Focus
 
-Currently, I'm diving deep into:
-
-- 🚀 Exploring New Technologies
-- 📚 Continuous Learning
-- 🤝 Collaborative Projects
+Currently, I'm working as a Full-Stack Software Engineer at **Hotdesk**, building backend features (access control, search, payments, cloud infra) and frontend features (analytics, UI architecture) — and freelancing on full-stack projects on the side.
 
 ## 🔧 Technologies & Tools
 
-I work with a variety of technologies and tools, including but not limited to:
-
 ### Languages
 
-- C++
 - Python
+- TypeScript / JavaScript
 - Java
-- JavaScript
+- C++
 - C#
+- Go
 - PHP
+- Dart
 
-### Web Development
+### Backend
 
-- HTML
-- CSS
-- JavaScript
+- Django / Django REST Framework
+- Celery
 - Node.js
-- Express.js
-- EJS
+- Spring Boot
+- .NET
+
+### Frontend
+
+- React / Next.js
+- Angular
+- Flutter
+- Tailwind CSS / Shadcn
 - Bootstrap
 
-### Databases
+### Databases & Search
 
-- MySQL
+- PostgreSQL (PostGIS)
+- Redis
+- Typesense
 - MongoDB
+- Supabase
+- Firebase
 
-### Design
+### Cloud & DevOps
 
-- Figma
+- AWS (ECS, Fargate, SQS, EventBridge, CloudWatch, CloudShell, RDS)
+- Docker / Docker Compose
+- GitLab CI/CD
+- Cloudflare
+
+### API Tools
+
+- Postman (collections, environments, workspaces)
+- Swagger (OpenAPI)
 
 ## 📈 GitHub Stats
 
